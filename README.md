@@ -1,8 +1,5 @@
 # Advanced Port Scanner with Geolocation and Vulnerability Detection 🛡️
 
-
-# Advanced Port Scanner with Geolocation and Vulnerability Detection
-
 This is an advanced Python-based port scanner that not only scans for open ports but also retrieves geolocation data for the target IP. It includes features like banner grabbing, vulnerability suggestions for open ports, and geolocation reporting with a Google Maps link. It is a useful tool for network administrators, penetration testers, and cybersecurity professionals.
 
 ## Features
