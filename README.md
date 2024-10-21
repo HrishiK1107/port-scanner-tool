@@ -20,17 +20,21 @@ This is an advanced Python-based port scanner that not only scans for open ports
   - `queue`
   - `logging`
 
-You can install `requests` using the following command:
-
+### How to Use:
+1. Clone the repository and navigate to the project folder.
 ```bash
-pip install requests
+git clone <repository-url>
+cd <repository-folder>
 ```
-
-Run the script using this command:
+2. Run the script using this command:
 ```bash
 python port_scanner.py
 ```
-Example:
+3. Input the target IP address when prompted.
+
+4. The tool will scan the target IP for predefined ports, attempt to grab banners, check for vulnerabilities, and retrieve geolocation data
+
+5. Example:
 ```bash
 192.168.1.1:80 is open - HTTP - Banner: Apache HTTPD - Vulnerability: Check for common web vulnerabilities.
 192.168.1.1:443 is open - HTTPS - No banner - Vulnerability: Check SSL/TLS configuration.
@@ -43,6 +47,7 @@ Latitude: 18.5204
 Longitude: 73.8567
 Google Maps Link: https://www.google.com/maps/@18.5204,73.8567,15z
 ```
+6. All logs, including port status, banners, vulnerabilities, and geolocation data, will be saved to ```port_scanner.log```
 
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
