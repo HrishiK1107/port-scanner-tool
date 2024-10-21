@@ -46,3 +46,9 @@ Latitude: 18.5204
 Longitude: 73.8567
 Google Maps Link: https://www.google.com/maps/@18.5204,73.8567,15z
 ```
+
+### License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Disclaimer:
+This tool is for **educational purposes only**. Unauthorized use of keylogging software may be illegal. Ensure that you have proper permission before using this tool.
