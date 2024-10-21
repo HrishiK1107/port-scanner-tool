@@ -28,6 +28,21 @@ You can install `requests` using the following command:
 ```bash
 pip install requests
 ```
-```Run the script
+
+Run the script using this command:
+```bash
 python port_scanner.py
+```
+Example:
+```bash
+192.168.1.1:80 is open - HTTP - Banner: Apache HTTPD - Vulnerability: Check for common web vulnerabilities.
+192.168.1.1:443 is open - HTTPS - No banner - Vulnerability: Check SSL/TLS configuration.
+
+Geolocation for 192.168.1.1:
+City: Pune
+Country: India
+ISP: ABC Internet Pvt. Ltd.
+Latitude: 18.5204
+Longitude: 73.8567
+Google Maps Link: https://www.google.com/maps/@18.5204,73.8567,15z
 ```
