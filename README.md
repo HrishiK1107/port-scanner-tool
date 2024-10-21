@@ -52,5 +52,9 @@ Google Maps Link: https://www.google.com/maps/@18.5204,73.8567,15z
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Disclaimer:
-This tool is for **educational purposes only**. Unauthorized use of keylogging software may be illegal. Ensure that you have proper permission before using this tool.
+## Disclaimer
+
+**This tool is intended for educational and informational purposes only.** It should only be used on networks and systems that you own or have explicit permission to test. Unauthorized use of this tool against any system is illegal and may result in severe consequences, including legal action.
+
+By using this tool, you acknowledge that you are solely responsible for any consequences arising from its use. The author and contributors of this project are not liable for any damages or legal issues resulting from the misuse of this tool.
+
